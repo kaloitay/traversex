@@ -1,0 +1,62 @@
+[
+  {
+    "v": {
+      "_class": "com.university.entity.universityDocument",
+      "university": [
+        {
+          "collegeList": [
+            {
+              "branch": [
+                {
+                  "branchId": "1",
+                  "branchName": "Computer Science",
+                  "branchStrength": "60",
+                  "studentList": [
+                    {
+                      "studentId": "1",
+                      "studentName": "Alice D",
+                      "studentSubjects": [],
+                      "studentType": "TopTalent"
+                    },
+                    {
+                      "studentId": "2",
+                      "studentName": "Alex",
+                      "studentSubjects": [],
+                      "studentType": "Average"
+                    }
+                  ]
+                },
+                {
+                  "branchId": "2",
+                  "branchName": "Electronics",
+                  "branchStrength": "60",
+                  "studentList": [
+                    {
+                      "studentId": "3",
+                      "studentName": "Mohit",
+                      "studentSubjects": [],
+                      "studentType": "TopTalent"
+                    },
+                    {
+                      "studentId": "4",
+                      "studentName": "Rajni",
+                      "studentSubjects": [],
+                      "studentType": "Average"
+                    }
+                  ]
+                }
+              ],
+              "collegeId": "1",
+              "collegeName": "Common college",
+              "collegeType": "Engineering"
+            }
+          ],
+          "universityGrade": "AAA",
+          "universityId": "1",
+          "universityName": "BPUT",
+          "universityType": "Technology"
+        }
+      ]
+    }
+  }
+]
