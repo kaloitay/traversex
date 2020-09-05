@@ -3,7 +3,7 @@
 putting an end to production json traversal methods just to patch a json object
 Seen just to many bad practices which brought me to create this open source
 
-you can now add a java object which represents a json
+you can now add a java object which represents a json object/array
 add a traverseX pattern, which describes the recursion flow
 
 and you will get the expected result.
